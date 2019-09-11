@@ -1,2 +1,2 @@
 # Blog
-My blog.
+My blog. Posts: https://blog.schichler.dev.
